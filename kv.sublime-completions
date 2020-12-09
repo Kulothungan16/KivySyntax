@@ -233,39 +233,39 @@
         },
         {
                 "trigger": "ButtonBehavior\tKivy",
-                "contents": "ButtonBehavior:"
+                "contents": "ButtonBehavior"
         },
         {
                 "trigger": "ToggleButtonBehavior\tKivy",
-                "contents": "ToggleButtonBehavior:"
+                "contents": "ToggleButtonBehavior"
         },
         {
                 "trigger": "DragBehavior\tKivy",
-                "contents": "DragBehavior:"
+                "contents": "DragBehavior"
         },
         {
                 "trigger": "FocusBehavior\tKivy",
-                "contents": "FocusBehavior:"
+                "contents": "FocusBehavior"
         },
         {
                 "trigger": "CompoundSelectionBehavior\tKivy",
-                "contents": "CompoundSelectionBehavior:"
+                "contents": "CompoundSelectionBehavior"
         },
         {
                 "trigger": "KNSpaceBehavior\tKivy",
-                "contents": "KNSpaceBehavior:"
+                "contents": "KNSpaceBehavior"
         },
         {
                 "trigger": "CodeNavigationBehavior\tKivy",
-                "contents": "CodeNavigationBehavior:"
+                "contents": "CodeNavigationBehavior"
         },
         {
                 "trigger": "EmacsBehavior\tKivy",
-                "contents": "EmacsBehavior:"
+                "contents": "EmacsBehavior"
         },
         {
                 "trigger": "CoverBehavior\tKivy",
-                "contents": "CoverBehavior:"
+                "contents": "CoverBehavior"
         },
         {
                 "trigger": "Bubble\tKivy",
@@ -697,15 +697,15 @@
         },
         {
                 "trigger": "HoverBehavior\tKivyMD",
-                "contents": "HoverBehavior:"
+                "contents": "HoverBehavior"
         },
         {
                 "trigger": "FocusBehavior\tKivyMD",
-                "contents": "FocusBehavior:"
+                "contents": "FocusBehavior"
         },
         {
                 "trigger": "MagicBehavior\tKivyMD",
-                "contents": "MagicBehavior:"
+                "contents": "MagicBehavior"
         },
         {
                 "trigger": "MDNavigationDrawer\tKivyMD",
@@ -919,10 +919,6 @@
         {
                 "trigger": "line_width\tattr",
                 "contents": "line_width: ${1:0}"
-        },
-        {
-                "trigger": "keep_data\tattr",
-                "contents": "keep_data: ${1:True}"
         },
         {
                 "trigger": "keep_ratio\tattr",
@@ -1147,6 +1143,18 @@
         {
                 "trigger": "keep_data\tattr",
                 "contents": "keep_data: ${1:True}"
+        },
+        {
+                "trigger": "points\tattr"
+                "contents": "points: ${1:}"
+        },
+        {
+                "trigger": "angle_end\tattr"
+                "contents": "angle_end: ${1:}"
+        },
+        {
+                "trigger": "angle_start\tattr"
+                "contents": "angle_start: ${1:}"
         },
         {
                 "trigger": "bold\tattr",
@@ -1548,7 +1556,22 @@
         {
                 "trigger": "on_slide_progress\tevent",
                 "contents": "on_slide_progress: "
+        },
+        {
+                "trigger": "app",
+                "contents": "app."
+        },
+        {
+                "trigger": "root",
+                "contents": "root."
+        },
+        {
+                "trigger": "parent",
+                "contents": "parent."
+        },
+        {
+                "trigger": "self",
+                "contents": "self."
         }
-
     ]
 }
