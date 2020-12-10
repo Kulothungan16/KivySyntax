@@ -54,7 +54,7 @@
         <key>builtin_attributes</key>
         <dict>
             <key>match</key>
-            <string>(?&lt;!\.)\b(|on_touch_down|on_touch_move|on_kv_post|on_touch_up|on_release|on_press|on_ref_press|on_leave|on_enter|on_pre_enter|on_pre_leave|on_dismiss|on_open|on_pre_dismiss|on_pre_open|on_error|on_load|on_text_validate|on_double_tap|on_triple_tap|on_quad_touch|on_scroll_start|on_scroll_move|on_scroll_stop|on_close|on_swipe|on_pre_swipe|on_overswipe_right|on_overswipe_left|on_swipe_left|on_swipe_right|on_tab_switch|on_slide_progress|on_slide_complete)\b</string>
+            <string>(?&lt;!\.)\b(on_touch_down|on_touch_move|on_kv_post|on_touch_up|on_release|on_press|on_ref_press|on_leave|on_enter|on_pre_enter|on_pre_leave|on_dismiss|on_open|on_pre_dismiss|on_pre_open|on_error|on_load|on_text_validate|on_double_tap|on_triple_tap|on_quad_touch|on_scroll_start|on_scroll_move|on_scroll_stop|on_close|on_swipe|on_pre_swipe|on_overswipe_right|on_overswipe_left|on_swipe_left|on_swipe_right|on_tab_switch|on_slide_progress|on_slide_complete)\b</string>
             <key>name</key>
             <string>entity.name.function.kv</string>
         </dict>
