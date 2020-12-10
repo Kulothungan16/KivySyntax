@@ -1546,12 +1546,20 @@
          "contents":"on_swipe_left: "
       },
       {
-         "trigger":"on_swipe_righton_tab_switch\tevent",
-         "contents":"on_swipe_righton_tab_switch: "
+         "trigger":"on_swipe_right\tevent",
+         "contents":"on_swipe_right: "
+      },
+      {
+         "trigger":"on_tab_switch\tevent",
+         "contents":"on_tab_switch: "
       },
       {
          "trigger":"on_slide_progress\tevent",
          "contents":"on_slide_progress: "
+      },
+      {
+         "trigger":"on_slide_complete\tevent",
+         "contents":"on_slide_complete: "
       },
       {
          "trigger":"app",
