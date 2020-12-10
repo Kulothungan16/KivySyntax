@@ -803,11 +803,11 @@
       },
       {
          "trigger":"width\tattr",
-         "contents":"width: ${1:100}"
+         "contents":"width: \"${1:100}dp\""
       },
       {
          "trigger":"height\tattr",
-         "contents":"height: ${1:100}"
+         "contents":"height: \"${1:100}dp\""
       },
       {
          "trigger":"pos\tattr",
