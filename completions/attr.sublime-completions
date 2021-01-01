@@ -418,6 +418,10 @@
          "contents":"background_normal: ${1:None}"
       },
       {
+         "trigger":"background_down\tattr",
+         "contents":"background_down: ${1:None}"
+      },
+      {
          "trigger":"bar_color\tattr",
          "contents":"bar_color: (${1:1}, ${2:1}, ${3:1}, ${4:1})"
       },
@@ -624,6 +628,10 @@
       {
          "trigger":"fill_color\tattr",
          "contents":"fill_color: (${1:1}, ${2:1}, ${3:1}, ${4:1})"
+      },
+      {
+         "trigger":"icon\tattr",
+         "contents":"icon: \"{${1:}\""
       },
       {
          "trigger":"icon_left\tattr",

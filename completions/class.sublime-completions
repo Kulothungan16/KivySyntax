@@ -398,6 +398,10 @@
          "contents":"TabbedPanel:"
       },
       {
+         "trigger":"TabbedPanelItem\tKivy",
+         "contents":"TabbedPanelItem:",
+      }, 
+      {
          "trigger":"TabbedPanelHeader\tKivy",
          "contents":"TabbedPanelHeader:"
       },
