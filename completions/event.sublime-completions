@@ -74,18 +74,6 @@
          "contents":"on_text_validate: "
       },
       {
-         "trigger":"on_double_tap\tevent",
-         "contents":"on_double_tap: "
-      },
-      {
-         "trigger":"on_triple_tap\tevent",
-         "contents":"on_triple_tap: "
-      },
-      {
-         "trigger":"on_quad_touch\tevent",
-         "contents":"on_quad_touch: "
-      },
-      {
          "trigger":"on_scroll_start\tevent",
          "contents":"on_scroll_start: "
       },
@@ -96,46 +84,6 @@
       {
          "trigger":"on_scroll_stop\tevent",
          "contents":"on_scroll_stop: "
-      },
-      {
-         "trigger":"on_close\tevent",
-         "contents":"on_close: "
-      },
-      {
-         "trigger":"on_swipe\tevent",
-         "contents":"on_swipe: "
-      },
-      {
-         "trigger":"on_pre_swipe\tevent",
-         "contents":"on_pre_swipe: "
-      },
-      {
-         "trigger":"on_overswipe_right\tevent",
-         "contents":"on_overswipe_right: "
-      },
-      {
-         "trigger":"on_overswipe_left\tevent",
-         "contents":"on_overswipe_left: "
-      },
-      {
-         "trigger":"on_swipe_left\tevent",
-         "contents":"on_swipe_left: "
-      },
-      {
-         "trigger":"on_swipe_right\tevent",
-         "contents":"on_swipe_right: "
-      },
-      {
-         "trigger":"on_tab_switch\tevent",
-         "contents":"on_tab_switch: "
-      },
-      {
-         "trigger":"on_slide_progress\tevent",
-         "contents":"on_slide_progress: "
-      },
-      {
-         "trigger":"on_slide_complete\tevent",
-         "contents":"on_slide_complete: "
       }
    ]
 }

@@ -1,6 +1,6 @@
 # Kivy Syntax
 
-[Kivy](https://github.com/kivy/Kivy) and [KivyMD](https://github.com/kivymd/KivyMD) - Syntax Highlighting and Auto-Completion for [Sublime-Text](https://www.sublimetext.com/)
+[Kivy](https://github.com/kivy/Kivy) - Syntax Highlighting and Auto-Completion for [Sublime-Text](https://www.sublimetext.com/)
 
 ## Installation
 
