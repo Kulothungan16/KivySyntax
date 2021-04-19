@@ -12,18 +12,18 @@ Currently sublime-text didn't have `Kivy Syntax` Package, It will be available S
 
 ```bash
 cd ~/.config/sublime-text-3/Packages/
-git clone https://github.com/Kulothungan16/kivy_syntax.git "Kivy Syntax"
+git clone https://github.com/Kulothungan16/KivySyntax.git "Kivy Syntax"
 ```
 
 ### On Windows:
 
 ```bash
 cd %APPDATA%/Sublime Text 3/Packages/
-git clone https://github.com/Kulothungan16/kivy_syntax.git "Kivy Syntax"
+git clone https://github.com/Kulothungan16/KivySyntax.git "Kivy Syntax"
 ```
 ### On Mac:
 
 ```bash
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
-git clone https://github.com/Kulothungan16/kivy_syntax.git "Kivy Syntax"
+git clone https://github.com/Kulothungan16/KivySyntax.git "Kivy Syntax"
 ```
