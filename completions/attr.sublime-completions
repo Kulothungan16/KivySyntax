@@ -438,8 +438,8 @@
          "contents":"effect_cls: "
       },
       {
-         "trigger":"anchor_title\tattr",
-         "contents":"anchor_title: \"${1:center}\""
+         "trigger":"hint_text\tattr",
+         "contents":"hint_text: \"${1:}\""
       }
    ]
 }
